@@ -1,0 +1,195 @@
+[ 2014-04-21T11:18:02+08:00 ] /xydj/ | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:18:02+08:00 ] /xydj/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001326s ]
+[ 2014-04-21T11:18:02+08:00 ] /xydj/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.022812s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001147s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001288s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ParseTemplate Behavior [ RunTime:0.012329s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012522s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ContentReplace Behavior [ RunTime:0.000635s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run TokenBuild Behavior [ RunTime:0.000731s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000508s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000856s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003026s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000243s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_template ] --END-- [ RunTime:-0.015938s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ParseTemplate Behavior [ RunTime:0.004696s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --END-- [ RunTime:-0.003740s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ContentReplace Behavior [ RunTime:0.000156s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run TokenBuild Behavior [ RunTime:0.000234s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000030s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000216s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --END-- [ RunTime:-0.005518s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000822s ]
+[ 2014-04-21T11:18:03+08:00 ] /xydj/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000930s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000936s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001089s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001060s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001186s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011299s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011437s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ContentReplace Behavior [ RunTime:0.000647s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run TokenBuild Behavior [ RunTime:0.000729s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000556s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000971s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003219s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000248s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_template ] --END-- [ RunTime:-0.015090s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ParseTemplate Behavior [ RunTime:0.004175s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --END-- [ RunTime:-0.004006s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ContentReplace Behavior [ RunTime:0.000150s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run TokenBuild Behavior [ RunTime:0.000161s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000029s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000282s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --END-- [ RunTime:-0.005066s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000721s ]
+[ 2014-04-21T11:18:07+08:00 ] /xydj/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000826s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001016s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001179s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run LocationTemplate Behavior [ RunTime:0.000978s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_template ] --END-- [ RunTime:0.001103s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ParseTemplate Behavior [ RunTime:0.057723s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_parse ] --END-- [ RunTime:0.057881s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ContentReplace Behavior [ RunTime:0.000676s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run TokenBuild Behavior [ RunTime:0.000701s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000474s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ShowRuntime Behavior [ RunTime:0.000858s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003036s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ShowPageTrace Behavior [ RunTime:0.000791s ]
+[ 2014-04-21T11:18:09+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_end ] --END-- [ RunTime:0.000909s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001054s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001290s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run LocationTemplate Behavior [ RunTime:0.001112s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_template ] --END-- [ RunTime:0.001546s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ParseTemplate Behavior [ RunTime:0.012356s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012572s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ContentReplace Behavior [ RunTime:0.000718s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run TokenBuild Behavior [ RunTime:0.000849s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000486s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ShowRuntime Behavior [ RunTime:0.001234s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003810s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Run ShowPageTrace Behavior [ RunTime:0.001521s ]
+[ 2014-04-21T11:18:11+08:00 ] /xydj/Index.php?m=Index&a=show_panel | INFO: Tag[ view_end ] --END-- [ RunTime:0.001822s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001615s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001772s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001050s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001173s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ParseTemplate Behavior [ RunTime:0.011409s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011547s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ContentReplace Behavior [ RunTime:0.000692s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run TokenBuild Behavior [ RunTime:0.000670s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000453s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000819s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002960s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000247s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_template ] --END-- [ RunTime:-0.014868s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ParseTemplate Behavior [ RunTime:0.004209s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_parse ] --END-- [ RunTime:-0.003695s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ContentReplace Behavior [ RunTime:0.000150s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run TokenBuild Behavior [ RunTime:0.000158s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000063s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000210s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_filter ] --END-- [ RunTime:-0.005077s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000727s ]
+[ 2014-04-21T11:19:01+08:00 ] /xydj/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000828s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001531s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001706s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.078704s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.078981s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.030623s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030800s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000985s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000827s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000564s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000875s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003612s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000468s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_template ] --END-- [ RunTime:-0.034972s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.020271s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:-0.004757s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000228s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000170s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000033s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000216s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:-0.021584s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001141s ]
+[ 2014-04-21T11:21:30+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001296s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ app_begin ] --START--
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001341s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001619s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) SessionDb.class.php 第 60 行.
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | NOTIC: [2] mysql_select_db() expects parameter 2 to be resource, boolean given SessionDb.class.php 第 61 行.
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given SessionDb.class.php 第 91 行.
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_template ] --START--
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001049s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001185s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_parse ] --START--
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.014565s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014712s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_filter ] --START--
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000764s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000868s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000596s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000869s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003458s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_end ] --START--
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000748s ]
+[ 2014-04-21T11:22:47+08:00 ] /bai_kuai/Index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.000855s ]
